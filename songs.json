@@ -3,19 +3,19 @@
 	"title" : "No Church in the Wild (feat Frank Ocean and The-Dream)",
 	"artist" : "Jay Z and Kanye West",
 	"genre" : ["Hip Hop","Rap"],
-	"released" : "2011"
+	"date" : "2011"
 },
 {
 	"title" : "Put Me Thru",
 	"artist" : "Anderson .Paak",
 	"genre" : ["Neo Soul", "R&B"],
-	"released" : "2016"
+	"date" : "2016"
 },
 {
 	"title" : "Blackbird",
 	"artist" : "The Beatles",
 	"genre" : ["Rock"],
-	"released" : "1968"
+	"date" : "1968"
 },
 {
 	"title" : "Someone Like You",
@@ -57,6 +57,6 @@
 	"title" : "Howlin' for You",
 	"artist" : "Black Keys",
 	"genre" : ["Rock","Alternative","Indie"],
-	"released" : "2011"
+	"date" : "2011"
 }
 ]
